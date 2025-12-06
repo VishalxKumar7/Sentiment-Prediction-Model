@@ -1,6 +1,6 @@
 IMDB Sentiment Analysis using SVM & TF-IDF
 
-This project performs sentiment analysis on the IMDB Movie Reviews Dataset using NLTK-based preprocessing, TF-IDF vectorization, and a Support Vector Machine (SVM) classifier.
+This project performs sentiment analysis on the IMDB Movie Reviews Dataset using NLTK-based preprocessing, TF-IDF vectorization, and a Support Vector  Machine (SVM) classifier & LogisticRegression.
 
 Project Workflow
 1. Text Preprocessing (NLTK)
